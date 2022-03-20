@@ -1,0 +1,23 @@
+{
+  "name": "experimentwithjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srihari-2017/ExperimentWithJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srihari-2017/ExperimentWithJavaScript/issues"
+  },
+  "homepage": "https://github.com/srihari-2017/ExperimentWithJavaScript#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
